@@ -5,6 +5,14 @@
   "timestamp": "2021-05-10T00:00:00+00:00",
   "tokens": [
     {
+      "address": "0xc290FCD146972938F9Cc4e13771dc7357b674dda",
+      "chainId": 425626,
+      "name": "gNFTY",
+      "symbol": "gNFTY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+    },
+    {
       "address": "0x887a60B07bCf8f7C4915A35FFED62FE8d3C7268B",
       "chainId": 425626,
       "name": "Alice Token",
