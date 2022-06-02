@@ -1,23 +1,37 @@
 {
-    "name": "NFTYCrucible",
-    "keywords": [
-      "crucible",
-      "gnfty"
-    ],
-    "timestamp": "2022-06-01T16:23:10.090+03:00",
-    "tokens": [
-      {
-        "chainId": 425626,
-        "address": "0x887a60b07bcf8f7c4915a35ffed62fe8d3c7268b",
-        "decimals": 18,
-        "name": "Alice Token",
-        "symbol": "ALICE",
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_wbtc.svg"
-      }
-    ],
-    "version": {
-      "major": 0,
-      "minor": 1,
-      "patch": 0
+  "name": "NFTY Crucible",
+  "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg",
+  "keywords": ["nfty", "tokens", "uniswap"],
+  "timestamp": "2021-05-10T00:00:00+00:00",
+  "tokens": [
+    {
+      "address": "0xc290FCD146972938F9Cc4e13771dc7357b674dda",
+      "chainId": 425626,
+      "name": "gNFTY",
+      "symbol": "gNFTY",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+    },
+    {
+      "address": "0x887a60B07bCf8f7C4915A35FFED62FE8d3C7268B",
+      "chainId": 425626,
+      "name": "Alice Token",
+      "symbol": "ALICE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+    },
+    {
+      "address": "0x9f969aCa5acE42255C0257F2617fC5FBE67f86E7",
+      "chainId": 425626,
+      "name": "Yassin Coin",
+      "symbol": "YPA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
     }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
   }
+}
