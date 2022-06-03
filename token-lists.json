@@ -2,7 +2,7 @@
   "name": "NFTY Crucible",
   "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg",
   "keywords": ["nfty", "tokens", "uniswap"],
-  "timestamp": "2022-05-11T00:00:00+00:00",
+  "timestamp": "2022-05-12T00:00:00+00:00",
   "tokens": [
     {
       "address": "0x887a60B07bCf8f7C4915A35FFED62FE8d3C7268B",
@@ -31,7 +31,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
