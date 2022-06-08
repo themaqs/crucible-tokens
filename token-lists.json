@@ -2,35 +2,35 @@
   "name": "NFTY Crucible",
   "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg",
   "keywords": ["nfty", "tokens", "uniswap"],
-  "timestamp": "2022-05-12T00:00:00+00:00",
+  "timestamp": "2022-05-19T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0x887a60B07bCf8f7C4915A35FFED62FE8d3C7268B",
-      "chainId": 425626,
-      "name": "Alice Token",
-      "symbol": "ALICE",
+      "address": "0xFca217d16344EC23656B04DBa1AC17c59DFe9406",
+      "chainId": 19888,
+      "name": "TokenA",
+      "symbol": "TKA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
     },
     {
-      "address": "0x9f969aCa5acE42255C0257F2617fC5FBE67f86E7",
-      "chainId": 425626,
-      "name": "Yassin Coin",
-      "symbol": "YPA",
-      "decimals": 9,
+      "address": "0x4A73F0Fa6AeDe3D34c40ce2C09a6C026EaAb874F",
+      "chainId": 19888,
+      "name": "USDCgNFTY",
+      "symbol": "USDC",
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
     },
     {
-      "address": "0x4f16BD2476FBc61A6594d65f9f84Eca141Be9974",
-      "chainId": 425626,
-      "name": "Am Khal",
-      "symbol": "AKH",
-      "decimals": 9,
+      "address": "0x8AF968B7268b40e315576b760a521653321d5325",
+      "chainId": 19888,
+      "name": "TokenB",
+      "symbol": "TKB",
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
     }
   ],
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 1,
     "patch": 0
   }
