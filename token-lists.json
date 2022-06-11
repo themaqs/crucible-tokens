@@ -2,36 +2,28 @@
   "name": "NFTY Crucible",
   "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg",
   "keywords": ["nfty", "tokens", "uniswap"],
-  "timestamp": "2022-05-19T00:00:00+00:00",
+  "timestamp": "2022-05-20T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0xFca217d16344EC23656B04DBa1AC17c59DFe9406",
-      "chainId": 19888,
-      "name": "TokenA",
-      "symbol": "TKA",
+      "address": "0xCdE88EB36f192Bc60B548c8D21c8691D1900dca6",
+      "chainId": 425629,
+      "name": "Ay1",
+      "symbol": "AYM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
     },
     {
       "address": "0x4A73F0Fa6AeDe3D34c40ce2C09a6C026EaAb874F",
-      "chainId": 19888,
-      "name": "USDCgNFTY",
-      "symbol": "USDC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
-    },
-    {
-      "address": "0x8AF968B7268b40e315576b760a521653321d5325",
-      "chainId": 19888,
-      "name": "TokenB",
-      "symbol": "TKB",
+      "chainId": 425629,
+      "name": "Ac1",
+      "symbol": "ACM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
