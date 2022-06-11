@@ -5,25 +5,25 @@
   "timestamp": "2022-05-20T00:00:00+00:00",
   "tokens": [
     {
-      "address": "0xCdE88EB36f192Bc60B548c8D21c8691D1900dca6",
-      "chainId": 425629,
-      "name": "Ay1",
-      "symbol": "AYM",
+      "address": "0xc93e9E161b02b9C06382075cafF55563c9Da03e4",
+      "chainId": 425630,
+      "name": "TokenA",
+      "symbol": "TKA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
     },
     {
-      "address": "0x4A73F0Fa6AeDe3D34c40ce2C09a6C026EaAb874F",
-      "chainId": 425629,
-      "name": "Ac1",
-      "symbol": "ACM",
+      "address": "0x9f969aCa5acE42255C0257F2617fC5FBE67f86E7",
+      "chainId": 425630,
+      "name": "TokenB",
+      "symbol": "TKB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
