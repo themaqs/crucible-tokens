@@ -2,7 +2,7 @@
   "name": "NFTY Crucible",
   "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg",
   "keywords": ["nfty", "tokens", "uniswap"],
-  "timestamp": "2022-05-20T00:00:00+00:00",
+  "timestamp": "2022-05-29T00:00:00+00:00",
   "tokens": [
     {
       "address": "0x39337e6ce21d573d63f363cf83e5dc22b9e888aa",
@@ -19,11 +19,19 @@
       "symbol": "BYC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+    },
+    {
+      "address": "0xf8389e5e0fdab1828215987d3ae553958643153c",
+      "chainId": 19889,
+      "name": "GCoin",
+      "symbol": "GCN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
     }
   ],
   "version": {
     "major": 3,
     "minor": 3,
-    "patch": 0
+    "patch": 1
   }
 }
