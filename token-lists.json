@@ -10,7 +10,7 @@
       "name": "TokenA",
       "symbol": "AYC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+      "logoURI": "https://raw.githubusercontent.com/themaqs/crucible-tokens/main/GONFTY.svg"
     },
     {
       "address": "0x4645806f5bb7fac94d58dc843be29a82bf19919e",
@@ -18,7 +18,7 @@
       "name": "TokenB",
       "symbol": "BYC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+      "logoURI": "https://raw.githubusercontent.com/themaqs/crucible-tokens/main/GONFTY.svg"
     },
     {
       "address": "0xf8389e5e0fdab1828215987d3ae553958643153c",
@@ -26,7 +26,7 @@
       "name": "GCoin",
       "symbol": "GCN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+      "logoURI": "https://raw.githubusercontent.com/themaqs/crucible-tokens/main/GONFTY.svg"
     },
     {
       "address": "0x5FeE19D96455bE27154270041623B716c6d06B4e",
@@ -34,7 +34,7 @@
       "name": "Canary Coin",
       "symbol": "CCN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
+      "logoURI": "https://raw.githubusercontent.com/themaqs/crucible-tokens/main/GONFTY.svg"
     }
   ],
   "version": {
