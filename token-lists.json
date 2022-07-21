@@ -2,7 +2,7 @@
   "name": "NFTY Crucible",
   "logoURI": "https://raw.githubusercontent.com/themaqs/crucible-tokens/main/GONFTY%20logo.png",
   "keywords": ["nfty", "tokens"],
-  "timestamp": "2022-07-11T08:01:00+00:00",
+  "timestamp": "2022-07-20T08:01:00+00:00",
   "tokens": [
     {
       "address": "0x39337e6ce21d573d63f363cf83e5dc22b9e888aa",
@@ -35,11 +35,19 @@
       "symbol": "CCN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/themaqs/crucible-tokens/main/GONFTY%20logo.png"
+    },
+    {
+      "address": "0xB0A47568fA97f868616E39807B870C48b19e5434",
+      "chainId": 19889,
+      "name": "Asadeq",
+      "symbol": "ASQ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/themaqs/crucible-tokens/main/GONFTY%20logo.png"
     }
   ],
   "version": {
     "major": 3,
-    "minor": 3,
-    "patch": 5
+    "minor": 4,
+    "patch": 0
   }
 }
