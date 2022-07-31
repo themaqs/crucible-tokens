@@ -1,8 +1,8 @@
 {
-  "name": "NFTY Crucible",
+  "name": "Canary bucks",
   "logoURI": "https://raw.githubusercontent.com/themaqs/crucible-tokens/main/GONFTY%20logo.png",
   "keywords": ["nfty", "tokens"],
-  "timestamp": "2022-07-21T09:01:00+00:00",
+  "timestamp": "2022-07-31T09:01:00+00:00",
   "tokens": [
     {
       "address": "0x39337e6ce21d573d63f363cf83e5dc22b9e888aa",
@@ -47,7 +47,7 @@
   ],
   "version": {
     "major": 3,
-    "minor": 4,
-    "patch": 1
+    "minor": 5,
+    "patch": 0
   }
 }
